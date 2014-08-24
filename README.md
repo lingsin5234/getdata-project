@@ -1,4 +1,5 @@
 getdata-project
+===============
 
 Steps to run my code and get a tidy data set:
 1. Download run_analysis.R file
@@ -17,4 +18,4 @@ There is only one script for my code.
 7. Merged the train and test data frames
 8. Added a column to distinguish the two data frames' averages from each other, train and test.
 9. Labelled all the columns appropriately
-===============
+
