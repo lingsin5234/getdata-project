@@ -4,6 +4,8 @@ In the final tidy data set, XYavg, the "Subject" column indicates whether the "A
 
 For the remainder of this codebook, the following information was provided with this project's files under the features_info.txt file which is from UCI archive. Some portions were removed because the goal of the project was to only look at the mean and standard deviation measurements. 
 
+Each of the data values in the final tidy data set are averages of the same variable with same activity and subject. 
+
 The following is taken from "features_info.txt":
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
